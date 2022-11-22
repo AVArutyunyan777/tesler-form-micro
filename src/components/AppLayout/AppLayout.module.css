@@ -1,0 +1,46 @@
+@import "../../assets/fonts/fonts.module.css";
+@value colors "../../assets/styles/theme.module.css";
+@value main-dark-mode from colors;
+
+.body {
+    background: #FFFFFF;
+    display: flex;
+}
+.appLayout {
+    font-family: openSans_regular;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.appLayout :global(.ant-layout) {
+    background: main-dark-mode;
+}
+
+.appLayout__child {
+    display: flex;
+    width: 100%;
+}
+
+/*body :global(.ant-popover) {*/
+/*    z-index: 1060;*/
+/*}*/
+
+.appLayout :global(.ant-layout-header) {
+    background: main-dark-mode;
+}
+
+.appLayout :global(.ant-layout-content) {
+    width: 550px;
+}
+
+.container {
+    padding: 4em 0;
+    width: 100%;
+}
+
+.app_bar {
+    background: #FFFFFF;
+    height: 64px;
+    padding: 0 50px;
+    line-height: 64px;
+}

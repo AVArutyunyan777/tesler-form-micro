@@ -1,0 +1,5 @@
+{
+  "auth-server-url": "http://192.168.70.52:8081/auth",
+  "realm": "vsk",
+  "resource": "rma_front"
+}

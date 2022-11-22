@@ -1,0 +1,14 @@
+<svg width="704" height="670" viewBox="0 0 704 670" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="703.33" height="670" fill="#F7F7F7"/>
+<rect x="394.5" y="238.5" width="62" height="26" fill="#F7F7F7" stroke="#B1B1B1" stroke-width="7"/>
+<rect x="220.5" y="259.5" width="263" height="173" fill="#F7F7F7" stroke="#B1B1B1" stroke-width="7"/>
+<circle cx="386.5" cy="347.5" r="52" fill="#F7F7F7" stroke="#B1B1B1" stroke-width="7"/>
+<rect width="7" height="200" fill="#B1B1B1"/>
+<rect y="7" width="7" height="200" transform="rotate(-90 0 7)" fill="#B1B1B1"/>
+<rect y="670" width="7" height="200" transform="rotate(-90 0 670)" fill="#B1B1B1"/>
+<rect x="7" y="670" width="7" height="200" transform="rotate(-180 7 670)" fill="#B1B1B1"/>
+<rect x="703" y="670" width="7" height="200" transform="rotate(-180 703 670)" fill="#B1B1B1"/>
+<rect x="703" y="663" width="7" height="200" transform="rotate(90 703 663)" fill="#B1B1B1"/>
+<rect x="703" width="7" height="200" transform="rotate(90 703 0)" fill="#B1B1B1"/>
+<rect x="696" width="7" height="200" fill="#B1B1B1"/>
+</svg>

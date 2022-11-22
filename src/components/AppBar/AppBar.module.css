@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: auto;
+    min-height: 64px;
+}
+.withTabs {
+    justify-content: space-between;
+}
+
+.user {
+    align-self: flex-start;
+    margin-top: 20px;
+}

@@ -1,0 +1,12 @@
+.block__container {
+    padding: 0 4em;
+    width: 100%;
+    background: #C0D9E9;
+}
+
+.block__header {
+    font-family: openSans_bold;
+    font-size: 24px;
+    line-height: 34px;
+    padding: 1em 0;
+}

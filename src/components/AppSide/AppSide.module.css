@@ -1,0 +1,68 @@
+/*.side {*/
+/*    flex: 0 0 200px;*/
+/*    max-width: 200px;*/
+/*    min-width: 200px;*/
+/*    width: 200px;*/
+/*    background: #FFFFFF;*/
+/*    transition: all 0.2s;*/
+/*}*/
+
+/*.side__children {*/
+/*    height: 100%;*/
+/*}*/
+
+/*.side__logo {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    padding: 1.5em 0 3em 0;*/
+/*}*/
+
+/*.side__navigation {*/
+/*    box-sizing: border-box;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    font-variant: tabular-nums;*/
+/*    color: rgba(0, 0, 0, 0.85);*/
+/*    font-size: 14px;*/
+/*    line-height: 0;*/
+/*    text-align: left;*/
+/*    list-style: none;*/
+/*    background: #FFFFFF;*/
+/*    outline: none;*/
+/*    transition: background 0.3s, width 0.3s cubic-bezier(0.2, 0, 0, 1) 0s;*/
+/*}*/
+
+/*.navigation__item {*/
+/*    margin-bottom: 8px;*/
+/*    margin-top: 4px;*/
+/*    height: 40px;*/
+/*    line-height: 40px;*/
+/*    padding: 0 16px;*/
+/*    overflow: hidden;*/
+/*    text-overflow: ellipsis;*/
+/*    font-size: 14px;*/
+/*    white-space: nowrap;*/
+/*    cursor: pointer;*/
+/*    transition: border-color 0.3s, background 0.3s, padding 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);*/
+/*}*/
+
+/*.navigation__item:hover {*/
+/*    color: #1890FF;*/
+/*}*/
+
+/*.navigation__item:active {*/
+/*    color: #3F7BEF;*/
+/*    border-radius: 8px;*/
+/*    background-color: #3F7BEF33;*/
+/*}*/
+
+.logoContainer {
+    display: flex;
+    justify-content: center;
+    padding: 1.5em 0 3em 0;
+}
+
+.side {
+    margin: 0 0;
+    background-color: #F4F4F4;
+}

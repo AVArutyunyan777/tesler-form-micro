@@ -1,0 +1,13 @@
+.content {
+    width: 100%;
+    margin-top: 0.6em;
+}
+
+.content__block {
+    width: 100%;
+}
+
+.content__container {
+    padding: 0 4em;
+    width: 100%;
+}

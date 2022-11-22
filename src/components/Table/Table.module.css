@@ -1,0 +1,40 @@
+@value colors "../../assets/styles/theme.module.css";
+@value accent20, accent, main-light-mode from colors;
+
+.tableContainer {
+
+}
+/*.tableContainer :global(.ant-table-tbody > tr:hover:not(.ant-table-expanded-row):not(.ant-table-row-selected) > td) {*/
+/*    background-color: accent20;*/
+/*}*/
+/*.tableContainer :global(.ant-table-tbody > tr:hover:not(.ant-table-expanded-row):not(.ant-table-row-selected) > td:first-child) {*/
+/*    border-bottom-left-radius: 8px;*/
+/*    border-top-left-radius: 8px;*/
+/*}*/
+/*.tableContainer :global(.ant-table-tbody > tr:hover:not(.ant-table-expanded-row):not(.ant-table-row-selected) > td:last-child) {*/
+/*    border-bottom-right-radius: 8px;*/
+/*    border-top-right-radius: 8px;*/
+/*}*/
+
+/*.tableContainer :global(.ant-table-tbody > tr > td) {*/
+/*    padding: 8px;*/
+/*}*/
+/*.tableContainer :global(.ant-table .ant-table-thead > tr > th) {*/
+/*    padding: 13px 8px;*/
+/*}*/
+
+/*.tableContainer :global([class^="ant-table-column-title"]) {*/
+/*    font-family: openSans_bold;*/
+/*    line-height: 20px;*/
+/*    color: main-light-mode;*/
+/*    word-break: normal;*/
+/*}*/
+
+/*.tableContainer :global([class^="ActionLink"]) {*/
+/*    color: accent;*/
+/*}*/
+
+/*.tableContainer :global([class^="ReadOnlyField"]) {*/
+/*    line-height: 20px;*/
+/*    color: main-light-mode;*/
+/*}*/
